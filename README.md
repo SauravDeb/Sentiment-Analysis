@@ -5,7 +5,7 @@ On 8 November 2016, the Government of India announced the demonetisation of all 
 
 Demonetization initially received support from several bankers as well as from some international commentators.However it was heavily criticised by members of the opposition parties, leading to debates in both houses of parliament and triggering organised protests against the government in several places across India.
 
-> It would be interesting to interpret tweets from the general public as a whole, so as to attain insightful knowledge regarding the sentiments of citizens on Twitter.
+> It would be interesting to interpret tweets from the general public as a whole, so as to attain insightful knowledge regarding the sentiments of the Twitterati.
 
 * * *
 
